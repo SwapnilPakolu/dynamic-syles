@@ -1,3 +1,3 @@
-# dynamic-syles
+# dynamic-styles
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/dynamic-syles)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/dynamic-styles)
